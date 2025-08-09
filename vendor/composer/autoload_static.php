@@ -63,7 +63,7 @@ class ComposerStaticInit988be63c1b8fc010ed27f36907a4f4f4
         ),
         'Pc\\Apisenai\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/api',
+            0 => __DIR__ . '/../..' . '/API',
         ),
         'Model\\' => 
         array (
