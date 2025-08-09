@@ -1,16 +1,23 @@
 {
-    "name": "diogo/api",
+    "name": "pc/apisenai",
+    "description": "API Rest",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Diogo\\Api\\": "API/",
+            "Pc\\Apisenai\\": "API/",
             "Model\\": "Model/",
             "Controller\\": "Controller/"
         },
-        "files" : [
+        "files": [
             "Config/configuration.php"
         ]
     },
+    "authors": [
+        {
+            "name": "analuisadev",
+            "email": "analuisavidal89@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {
         "php": ">=8.0",
